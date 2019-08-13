@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "N/A",
     "homepage": "",
-    "description": "Provide the support for all the smpt server (Autentication, SSL)",
+    "description": "Provide the support for all the smtp server (Autentication, SSL)",
     "authors": [
     {
         "name": "Luca",
