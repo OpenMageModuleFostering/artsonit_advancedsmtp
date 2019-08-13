@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/ArtsOnIT_AdvancedSmtp",
+    "type": "magento-module",
+    "license": "N/A",
+    "homepage": "",
+    "description": "Provide the support for all the smpt server (Autentication, SSL)",
+    "authors": [
+    {
+        "name": "Luca",
+        "email": "me@ziq.it"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
