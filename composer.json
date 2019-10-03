@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/ArtsOnIT_AdvancedSmtp",
+    "name": "OpenMageModuleFostering\/ArtsOnIT_AdvancedSmtp",
     "type": "magento-module",
-    "license": "N/A",
+    "license": "N\/A",
     "homepage": "",
     "description": "Provide the support for all the smtp server (Autentication, SSL)",
     "authors": [
-    {
-        "name": "Luca",
-        "email": "me@ziq.it"
-    }
-],
+        {
+            "name": "Luca",
+            "email": "me@ziq.it"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
